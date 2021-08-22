@@ -8,7 +8,7 @@
 4) Analyse Revenue Contibution %, Profit Margin % and Profit Margin Contribution % for both market_name and customer_name.
 5) Analyse the performance of customer_name.
 6) Analyse year wise Revenue and sales for customer_type.
-7) Analyse the yearly Revenue Contibution %, Profit Margin % and Profit Margin Contribution % for Zones.
+7) Analyse the year wise Revenue Contibution %, Profit Margin % and Profit Margin Contribution % for Zones.
 
 
 # Tools Used 
