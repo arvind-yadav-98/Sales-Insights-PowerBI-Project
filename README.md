@@ -9,3 +9,9 @@
 5) Analyse the performance of customer_name.
 6) Analyse year wise Revenue and sales for customer_type.
 7) Analyse the yearly Revenue Contibution %, Profit Margin % and Profit Margin Contribution % for Zones.
+
+
+# Tools Used 
+
+1) Power BI
+2) MySQL
