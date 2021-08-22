@@ -1,6 +1,6 @@
 # Sales-Insights-PowerBI-Project
 
- Business Tasks
+# Business Tasks
 
 1) Find the Total Revenue and Total Sales year wise.
 2) Plot a graph showing Revenue Trend with years.
