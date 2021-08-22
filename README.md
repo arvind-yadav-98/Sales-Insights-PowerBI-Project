@@ -1,5 +1,7 @@
 # Sales-Insights-PowerBI-Project
 
+# Business Tasks
+
 1) Find the Total Revenue and Total Sales year wise.
 2) Plot a graph showing Revenue Trend with years.
 3) Find the Top 5 customers and Tp 5 products on the basis of year wise Revenue.
