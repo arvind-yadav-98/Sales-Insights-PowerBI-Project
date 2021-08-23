@@ -13,5 +13,5 @@
 
 # Tools Used 
 
-1) Power BI
-2) MySQL
+ Power BI
+
